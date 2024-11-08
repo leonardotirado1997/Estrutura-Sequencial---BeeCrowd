@@ -1,0 +1,14 @@
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\bin\Debug\net8.0\BeeCrowd1019.exe
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\bin\Debug\net8.0\BeeCrowd1019.deps.json
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\bin\Debug\net8.0\BeeCrowd1019.runtimeconfig.json
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\bin\Debug\net8.0\BeeCrowd1019.dll
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\bin\Debug\net8.0\BeeCrowd1019.pdb
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.AssemblyInfoInputs.cache
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.AssemblyInfo.cs
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.dll
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\refint\BeeCrowd1019.dll
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.pdb
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\BeeCrowd1019.genruntimeconfig.cache
+C:\Users\leonardo.8932\source\repos\LogicaProgramacao\BeeCrowd1019\obj\Debug\net8.0\ref\BeeCrowd1019.dll
